@@ -28,13 +28,7 @@ A modern Python GUI application for extracting and organizing music zip files fr
 
 1. **Download the application:**
    ```bash
-   # Option 1: Direct download
-   wget https://raw.githubusercontent.com/yourusername/Music-Extractor-GUI/main/Music_Extractor.py
-   
-   # Option 2: Clone the repository
-   git clone https://github.com/yourusername/Music-Extractor-GUI.git
-   cd Music-Extractor-GUI
-   ```
+   wget https://raw.githubusercontent.com/8tea/py-music-extractor/main/Music_Extractor.py
 
 2. **Make it executable:**
    ```bash
@@ -49,7 +43,7 @@ A modern Python GUI application for extracting and organizing music zip files fr
 ### Alternative: Using the install script
 ```bash
 # Download and run the install script
-curl -O https://raw.githubusercontent.com/yourusername/Music-Extractor-GUI/main/install.sh
+curl -O https://raw.githubusercontent.com/8tea/py-music-extractor/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
@@ -174,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/Music-Extractor-GUI/issues) page
+1. Check the [Issues](https://github.com/8tea/py-music-extractor/issues) page
 2. Create a new issue with detailed information
 3. Include your operating system and Python version
 
