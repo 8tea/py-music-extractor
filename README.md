@@ -18,15 +18,6 @@ A modern Python GUI application for extracting and organizing music zip files fr
 - ⌨️ **Keyboard shortcuts** for power users
 - 📁 **Quick folder access** to extraction destination
 
-## 🖼️ Screenshots
-
-The application features a clean, modern interface with:
-- Compact settings panel for Downloads and Music Library paths
-- Format selection dropdown for different zip file naming patterns
-- Real-time statistics showing found, processed, and failed files
-- Expandable output section with file preview and activity log
-- Progress bar and status notifications
-
 ## 🚀 Quick Start
 
 ### Prerequisites
