@@ -1,0 +1,22 @@
+# Music Extractor GUI - Python Requirements
+# This application uses only Python standard library modules
+# No external dependencies are required
+
+# Python version requirement
+# Python >= 3.6
+
+# Standard library modules used (included with Python):
+# - os
+# - sys
+# - zipfile
+# - shutil
+# - re
+# - threading
+# - json
+# - pathlib
+# - tkinter (GUI framework)
+
+# Note: Some Linux distributions may require additional packages for tkinter:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# CentOS/RHEL/Fedora: sudo yum install tkinter
+# Arch Linux: sudo pacman -S tk
