@@ -224,7 +224,7 @@ class MusicExtractorGUI:
         
         # Configuration - user can modify these
         self.downloads_folder = os.path.expanduser("~/Downloads")
-        self.music_library_path = "/mnt/musicdrive/Music"  # Changed to just /Music for cleaner structure
+        self.music_library_path = "~/Music"  # Changed to just /Music for cleaner structure
         
         # Settings file path
         self.settings_file = os.path.join(os.path.expanduser("~"), ".music_extractor_settings.json")
